@@ -39,8 +39,13 @@ An end-to-end IoT + ML project to predict irrigation needs using:
    ```
 🧠 Tech Stack
 Python
+
 Streamlit
+
 Scikit-learn (RandomForestClassifier)
+
 Pandas
+
 Joblib
+
 GitHub + Streamlit Cloud
